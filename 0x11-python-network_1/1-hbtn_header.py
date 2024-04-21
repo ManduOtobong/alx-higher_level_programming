@@ -1,9 +1,10 @@
 #!/usr/bin/python3
 """Displays the value of X-Request-Id header variable 
-   of a request to a given URL."""
+   of a request to a given URL.
+"""
 
-import urllib.request
 import sys
+import urllib.request
 
 if __name__ == "__main__":
     url = sys.argv[1]
