@@ -1,6 +1,6 @@
 #!/usr/bin/python3
-"""Displays the value of X-Request-Id header variable 
-   of a request to a given URL.
+"""Displays the value of X-Request-Id header variable
+of a request to a given URL.
 """
 
 import sys
